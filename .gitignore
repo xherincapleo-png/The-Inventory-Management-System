@@ -1,0 +1,10 @@
+﻿node_modules/
+.next/
+.env
+*.zip
+*.rar
+*.mp4
+*.exe
+*.pdf
+
+*client_secret*.json
